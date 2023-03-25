@@ -10,7 +10,8 @@
       "defaultConfiguration": "production",
       "options": {
         "root": "apps/apko",
-        "outputPath": "dist/apps/apko"
+        "outputPath": "dist/apps/apko",
+        "generateLockfile": true
       },
       "configurations": {
         "development": {

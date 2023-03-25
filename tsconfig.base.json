@@ -16,6 +16,7 @@
     "baseUrl": ".",
     "paths": {
       "@neks/lib2": ["libs/lib2/src/index.ts"],
+      "@neks/lib3": ["libs/lib3/src/index.ts"],
       "@neks/reactlib": ["libs/reactlib/src/index.ts"],
       "@neks/ui": ["libs/ui/src/index.ts"]
     }
